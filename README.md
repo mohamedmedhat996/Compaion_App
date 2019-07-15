@@ -1,0 +1,2 @@
+# Compaion_App
+Mobile Application to Companion Graduation project Using Flutter to send and receive data from Bluetooth, get GPS Current Location and Show details related to project Like(Suggested, Predicted places for user, Meeting lists for user and Control Setting of Companion Hardware from mobile app).
